@@ -1,2 +1,1 @@
-# hello-word
-the first one
+# hello-world
